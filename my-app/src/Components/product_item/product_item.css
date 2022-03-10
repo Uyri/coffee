@@ -1,0 +1,33 @@
+
+.card_margin {
+    margin-right: 35px;
+}
+
+.imgCenter{
+    padding-top: 20px;
+    text-align: center;
+    margin: 0;
+}
+
+.imgCenter .cardImg{
+    height: 130px;
+    width: 150px;
+    background-image: url(../img/815O9ktyfUL.jpg);
+    background-repeat: no-repeat;
+}
+
+.card_text{
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height */
+    text-align: center;
+    color: #000000;
+    margin: 0;
+}
+
+.card_text_price{
+    text-align: right;
+}

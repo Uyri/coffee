@@ -1,0 +1,15 @@
+.descr_color{
+    width: 1440px;
+    height: 495px;
+    background-image: url(../img/paper-1074131_1920.jpg);
+    background-repeat: no-repeat;
+}
+
+.grid_card{
+    display: flex;
+    justify-content: center;
+}
+
+.descr h2{
+    padding-bottom: 0px;
+}

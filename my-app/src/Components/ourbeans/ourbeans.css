@@ -1,0 +1,55 @@
+.ourbeans .ourbeans_img{
+    position: relative;
+    background: url(../img/girl.jpg) no-repeat; 
+    float: right;
+    height: 355px;
+    width: 272px;
+    overflow: hidden;
+}
+
+.ourbeans .descr{
+    padding-top: 0px;
+    background-color: #fff;
+    height: 0px;
+    text-align: center;
+}
+
+.ourbeans .descr h2{
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 35px;
+    color: #000000;
+    margin-bottom: 0px;
+}
+
+.ourbeans .descr .text_icon2 {
+    background-image: url(../img/icon/Beanslogo2.svg);
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+
+.ourbeans .descr_text{
+    width: 346px;
+    margin: 0 auto;
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+}
+
+.line{
+    padding-top: 55px;
+    margin-bottom: 55px;
+}
+.line hr{
+    padding-bottom: 2px;
+    width: 240px;
+    opacity: 1.25;
+    color: black;
+    margin: 0 auto;
+}

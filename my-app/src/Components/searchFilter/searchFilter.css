@@ -1,0 +1,21 @@
+.row_grid {
+    position: absolute;
+}
+
+.row_grid .product_list__btn {
+    position: relative;
+    top: -42px;
+    left: 410px;
+}
+
+.product_list .btn {
+    width: 100px;
+    height: 30px;
+    margin-right: 5px;
+    line-height: 15px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.product_list .btn:hover {
+    color: red;
+}

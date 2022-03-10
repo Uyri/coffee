@@ -1,0 +1,34 @@
+.footer{
+    padding-top: 50px;
+}
+
+.footer .hstack {
+    justify-content: center;
+    margin-left: 0px;
+}
+
+.footer .descr{
+    padding-top: 50px;
+}
+
+.footer .horizontal_text{
+    width: auto;
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 17px;
+    color: #000;
+    text-decoration: none;
+}
+
+.footer .text_icon{
+    background-image: url(../img/icon/coffee-beans1.png);
+    background-repeat: no-repeat;
+    height: 35px;
+    width: 35px;
+}
+
+.footer .text_icon2 {
+    background-image: url(../img/icon/Beanslogo2.svg);
+}

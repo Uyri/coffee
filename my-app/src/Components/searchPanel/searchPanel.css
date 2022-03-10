@@ -1,0 +1,28 @@
+.product_list{
+    display: flex;
+}
+.product_list p{
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+    margin-top: 10px;
+}
+
+.product_list .text1{
+    margin-right: 20px;
+}
+
+.product_list .input-group{
+    width: 180px;
+    height: 30px;
+    margin-right: 80px;
+}
+
+.product_list .text2{
+    margin-right: 35px;
+}
+

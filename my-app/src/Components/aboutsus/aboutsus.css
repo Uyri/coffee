@@ -1,0 +1,32 @@
+.descr{
+    padding-top: 80px;
+    background-color: #fff;
+    height: 520px;
+    text-align: center;
+}
+
+.descr h2{
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 35px;
+    color: #000000;
+    margin-bottom: 40px;
+}
+
+.descr .text_icon2 {
+    background-image: url(../img/icon/Beanslogo2.svg);
+}
+
+.descr_text{
+    width: 589px;
+    margin: 0 auto;
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+}
